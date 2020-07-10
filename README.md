@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working as a Database Developer - PL/SQL 
 - 🌱 I’m currently learning Front-End Tools and Python 
-- 💬 Ask me about Investments, Music, Series, Technology and Travels Around the World :earth_americas: :airplane:
+- 💬 Ask me about Investments, Music, Series, Technology, Development and Travels Around the World :earth_americas: :airplane:
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jessicaccostaesilva/) and [Email](jessicacostaesilva97@gmail.com)
 
