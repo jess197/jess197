@@ -1,4 +1,4 @@
-# :girl_technologist: :sunflower:  Jéssica Caroline Costa e Silva
+# :sunflower:  Jéssica Caroline Costa e Silva
 
 ### Heyyyyy guys 👋 Welcome to my profile!
 
