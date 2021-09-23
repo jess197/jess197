@@ -11,9 +11,9 @@ I'm Jess, a PL/SQL Oracle Database Developer, in love with tech and data analysi
 
 - :office_worker: I’m currently working as a Database Developer - PL/SQL on Wipro Technologies
 - :computer: Knowledges: Oracle PL/SQL, Oracle EBS ERP, Oracle Forms, Python, Front End Skills(HTML,CSS,Java Script) and PHP.  
-- :books: Graduating in Systems Information on PUCPR :heart: 
+- :books: Graduated in Systems Information on PUCPR :heart: 
 - 💬 Ask me about Investments, Music, Series, Technology and new cultures :earth_americas: :airplane:
-- 🌱 I’m currently learning Power BI, improving knowledges on Python, Cloud, Data Science, Data Analysis and Data Engineering
+- 🌱 I’m currently learning Power BI, improving knowledges on Python, Ruby, Cloud, Data Science, Data Analysis and Data Engineering
 - 🌱 I’m also studying to Oracle Database SQL Exam - 1Z0-071 to get my Oracle Certification. 
 
 ---
