@@ -13,12 +13,14 @@ I'm Jess, a Data Engineer, in love with tech and data.
   - Triggers, Views, Materialized Views, Functions, Packages, Procedures
 - :computer: Data Engineering: Python, ETL/ELT, Airflow, DBT, Hadoop, Spark, Big Data and Data Governance
 - :computer: Web Knowledges: HTML, CSS, Java Script and PHP 
-- :computer: Agile Knowledges: AWS (Kinesis, Glue, Athena, IAM) and OCI
+- :computer: Cloud Knowledges: AWS (Kinesis, Glue, Athena, IAM) and OCI
 - :computer: Agile Knowledges: Scrum and Kanban
+- :computer: DevOps Knowledges: Docker
 - :books: Bachelors Degree - Systems Information at PUCPR :heart: 
 - 💬 Ask me about Investments, Music, Series, Technology and new cultures :earth_americas: :airplane:
-- 🌱 I’m currently improving knowledges on Python, MultiCloud (AWS and OCI), Data Engineering, Data Science and Data Analysis.
-- 🌱 I’m also studying to Oracle Certificate Developer Associate and Architect Associate and Airflow Astronomer Certificate
+- 🌱 I’m currently improving knowledges on Python, MultiCloud (AWS and OCI), Docker, Data Engineering
+  -  Data Science and Data Analysis as well but in a minor priority than DE.
+- 🌱 I’m also studying to Oracle Certificate Developer Associate and Architect Associate, Airflow Astronomer Certificate and AWS Path Certificates. 
 - 🌱 OCI Foundations Certified
 
 ---
@@ -29,9 +31,12 @@ I'm Jess, a Data Engineer, in love with tech and data.
 
 <div>
 <br>
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/datascience.svg" alt="ds" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/datascience.svg" alt="ds" style="vertical-align:top; margin:4px">
+<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/cloud.svg" alt="ds" style="vertical-align:top; margin:4px">
+<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/aws.svg" alt="ds" style="vertical-align:top; margin:4px">
+<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="js" style="vertical-align:top; margin:4px">
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/php.svg" alt="vscode" style="vertical-align:top; margin:4px">
 <br>
