@@ -6,14 +6,20 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessicaccostaesilva/)](https://www.linkedin.com/in/jessicaccostaesilva/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jessicacostaesilva97@gmail.com)](mailto:jessicacostaesilva97@gmail.com)
 
-I'm Jess, a PL/SQL Oracle Database Developer, in love with tech and data analysis.
+I'm Jess, a Data Engineer, in love with tech and data.
 
-- :office_worker: I’m currently working as a Database Developer - PL/SQL on Wipro Technologies
-- :computer: Knowledges: Oracle PL/SQL, Oracle EBS ERP, Oracle Forms, Python, Front End Skills(HTML,CSS,Java Script) and PHP.  
+- :office_worker: I’m currently working as a Data Engineer at Sympla
+- :computer: Database Knowledges: - Oracle PLSQL, MySQL, T-SQL, PostgreSQL, Data Modelling
+  - Triggers, Views, Materialized Views, Functions, Packages, Procedures
+- :computer: Data Engineering: Python, ETL/ELT, Airflow, DBT, Hadoop, Spark, Big Data and Data Governance
+- :computer: Web Knowledges: HTML, CSS, Java Script and PHP 
+- :computer: Agile Knowledges: AWS (Kinesis, Glue, Athena, IAM) and OCI
+- :computer: Agile Knowledges: Scrum and Kanban
 - :books: Bachelors Degree - Systems Information at PUCPR :heart: 
 - 💬 Ask me about Investments, Music, Series, Technology and new cultures :earth_americas: :airplane:
-- 🌱 I’m currently learning Power BI, improving knowledges on Python, Ruby, Cloud, Data Science, Data Analysis and Data Engineering
-- 🌱 I’m also studying to Oracle Database SQL Exam - 1Z0-071 to get my Oracle Certification. 
+- 🌱 I’m currently improving knowledges on Python, MultiCloud (AWS and OCI), Data Engineering, Data Science and Data Analysis.
+- 🌱 I’m also studying to Oracle Certificate Developer Associate and Architect Associate and Airflow Astronomer Certificate
+- 🌱 OCI Foundations Certified
 
 ---
 
