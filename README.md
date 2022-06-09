@@ -1,10 +1,10 @@
-# :sunflower:  Jéssica Caroline Costa e Silva
+# :sunflower:  Jessica Costa e Silva
 
-### HEY guys 👋 Welcome to my profile!
+### HEY Everyone 👋 Welcome to my profile!
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jess197)](https://github.com/jess197)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessicaccostaesilva/)](https://www.linkedin.com/in/jessicaccostaesilva/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jessicacostaesilva97@gmail.com)](mailto:jessicacostaesilva97@gmail.com)
+<a href="https://www.github.com/jess197" target="_blank" rel="noreferrer"><img src="./logos/github.png" alt="github" style="vertical-align:top; margin:4px; height:40px; width:40px"></a>
+<a href="https://www.linkedin.com/in/jessicaccostaesilva/" target="_blank" rel="noreferrer"><img src="./logos/linkedin.png" alt="linkedin" style="vertical-align:top; margin:4px; height:40px; width:40px"></a>
+<a href="https://discord.com/users/263472119562633216" target="_blank" rel="noreferrer"><img src="./logos/discord.png" alt="discord" style="vertical-align:top; margin:4px; height:40px; width:40px"></a>
 
 I'm Jess, a Data Engineer, in love with tech and data.
 
@@ -17,7 +17,7 @@ I'm Jess, a Data Engineer, in love with tech and data.
 - :computer: Agile Knowledges: Scrum and Kanban
 - :computer: DevOps Knowledges: Docker
 - :books: Bachelors Degree - Systems Information at PUCPR :heart: 
-- 💬 Ask me about Investments, Music, Series, Technology and new cultures :earth_americas: :airplane:
+- 💬 Ask me about Investments, Music, Series, Technology, Books and traveling :earth_americas: :airplane:
 - 🌱 I’m currently improving knowledges on Python, MultiCloud (AWS and OCI), Docker, Data Engineering
   -  Data Science and Data Analysis as well but in a minor priority than DE.
 - 🌱 I’m also studying to Oracle Certificate Developer Associate and Architect Associate, Airflow Astronomer Certificate and AWS Path Certificates. 
