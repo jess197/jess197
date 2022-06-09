@@ -62,4 +62,6 @@ I'm Jess, a Data Engineer, in love with tech and data.
 <img src="./logos/gitlab.png" alt="gitlab" style="vertical-align:top; margin:4px; height:40px; width:40px">
 <br>
 <div/>
+  
+<a href="http://www.github.com/jess197"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jess197&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
