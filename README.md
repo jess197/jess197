@@ -31,14 +31,27 @@ I'm Jess, a Data Engineer, in love with tech and data.
 
 <div>
 <br>
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/datascience.svg" alt="ds" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/cloud.svg" alt="ds" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/aws.svg" alt="ds" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="js" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/php.svg" alt="vscode" style="vertical-align:top; margin:4px">
+<img src="./logos/linux" alt="linux" style="vertical-align:top; margin:4px; height:60px; width:60px">
+<img src="./logos/python.png" alt="python" style="vertical-align:top; margin:4px; height:60px; width:60px">
+<img src="./logos/aws" alt="aws" style="vertical-align:top; margin:4px; height:60px; width:60px">
+<img src="./logos/dbt" alt="dbt" style="vertical-align:top; margin:4px; height:60px; width:180px">
+<img src="./logos/docker" alt="docker" style="vertical-align:top; margin:4px; height:60px; width:60px">
+<img src="./logos/airflow" alt="airflow" style="vertical-align:top; margin:4px; height:60px; width:60px">
+<img src="./logos/gitlab" alt="gitlab" style="vertical-align:top; margin:4px; height:60px; width:60px">
+<img src="./logos/k8s" alt="k8s" style="vertical-align:top; margin:4px; height:60px; width:60px">
+<img src="./logos/data-quality" alt="data-quality" style="vertical-align:top; margin:4px; height:60px; width:60px">
+<img src="./logos/hadoop" alt="hadoop" style="vertical-align:top; margin:4px; height:60px; width:60px">
+<img src="./logos/oracle-logo" alt="oracle" style="vertical-align:top; margin:4px; height:60px; width:60px">
+<img src="./logos/sql" alt="sql" style="vertical-align:top; margin:4px; height:60px; width:60px">
+<img src="./logos/oracle-plsql" alt="plsql" style="vertical-align:top; margin:4px; height:60px; width:60px">
+<img src="./logos/postgresql" alt="psql" style="vertical-align:top; margin:4px; height:60px; width:60px">
+<img src="./logos/mysql" alt="mysql" style="vertical-align:top; margin:4px; height:60px; width:60px">
+<img src="./logos/html5" alt="html5" style="vertical-align:top; margin:4px; height:60px; width:60px">
+<img src="./logos/css3" alt="css3" style="vertical-align:top; margin:4px; height:60px; width:60px">
+<img src="./logos/js" alt="js" style="vertical-align:top; margin:4px; height:60px; width:60px">
+<img src="./logos/php" alt="php" style="vertical-align:top; margin:4px; height:60px; width:60px">
+<img src="./logos/vscode" alt="vscode" style="vertical-align:top; margin:4px; height:60px; width:60px">
+<img src="./logos/anaconda" alt="anaconda" style="vertical-align:top; margin:4px; height:60px; width:60px">
 <br>
 <div/>
 
