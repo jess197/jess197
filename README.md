@@ -2,10 +2,6 @@
 
 ### HEY Everyone 👋 Welcome to my profile!
 
-<a href="https://www.github.com/jess197" target="_blank" rel="noreferrer"><img src="./logos/github.png" alt="github" style="vertical-align:top; margin:4px; height:40px; width:40px"></a>
-<a href="https://www.linkedin.com/in/jessicaccostaesilva/" target="_blank" rel="noreferrer"><img src="./logos/linkedin.png" alt="linkedin" style="vertical-align:top; margin:4px; height:40px; width:40px"></a>
-<a href="https://discord.com/users/263472119562633216" target="_blank" rel="noreferrer"><img src="./logos/discord.png" alt="discord" style="vertical-align:top; margin:4px; height:40px; width:40px"></a>
-
 I'm Jess, a Data Engineer, in love with tech and data.
 
 - :office_worker: I’m currently working as a Data Engineer at Sympla
@@ -31,11 +27,14 @@ I'm Jess, a Data Engineer, in love with tech and data.
 
 ---
 
-## Techs
+## Socials
+<a href="https://www.github.com/jess197" target="_blank" rel="noreferrer"><img src="./logos/github.png" alt="github" style="vertical-align:top; margin:4px; height:40px; width:40px"></a>
+<a href="https://www.linkedin.com/in/jessicaccostaesilva/" target="_blank" rel="noreferrer"><img src="./logos/linkedin.png" alt="linkedin" style="vertical-align:top; margin:4px; height:40px; width:40px"></a>
+<a href="https://discord.com/users/263472119562633216" target="_blank" rel="noreferrer"><img src="./logos/discord.png" alt="discord" style="vertical-align:top; margin:4px; height:40px; width:40px"></a>
 
+## Skills
 <div>
 <br>
-
 ### Data Engineering Tools
 <img src="./logos/python.png" alt="python" style="vertical-align:top; margin:4px; height:40px; width:40px">
 <img src="./logos/aws.png" alt="aws" style="vertical-align:top; margin:4px; height:40px; width:40px">
