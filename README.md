@@ -55,7 +55,7 @@ I'm Jess, a Data Engineer, in love with tech and data.
 <img src="./logos/js.png" alt="js" style="vertical-align:top; margin:4px; height:40px; width:40px">
 <img src="./logos/php.png" alt="php" style="vertical-align:top; margin:4px; height:40px; width:40px">
 
-# Dev Tools
+### Dev Tools
 <img src="./logos/vscode.png" alt="vscode" style="vertical-align:top; margin:4px; height:40px; width:40px">
 <img src="./logos/anaconda.png" alt="anaconda" style="vertical-align:top; margin:4px; height:40px; width:40px">
 <img src="./logos/linux.png" alt="linux" style="vertical-align:top; margin:4px; height:40px; width:40px">
