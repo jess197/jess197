@@ -31,27 +31,27 @@ I'm Jess, a Data Engineer, in love with tech and data.
 
 <div>
 <br>
-<img src="./logos/linux.png" alt="linux" style="vertical-align:top; margin:4px; height:60px; width:60px">
-<img src="./logos/python.png" alt="python" style="vertical-align:top; margin:4px; height:60px; width:60px">
-<img src="./logos/aws.png" alt="aws" style="vertical-align:top; margin:4px; height:60px; width:60px">
-<img src="./logos/dbt.png" alt="dbt" style="vertical-align:top; margin:4px; height:60px; width:180px">
-<img src="./logos/docker.png" alt="docker" style="vertical-align:top; margin:4px; height:60px; width:60px">
-<img src="./logos/airflow.png" alt="airflow" style="vertical-align:top; margin:4px; height:60px; width:60px">
-<img src="./logos/gitlab.png" alt="gitlab" style="vertical-align:top; margin:4px; height:60px; width:60px">
-<img src="./logos/k8s.png" alt="k8s" style="vertical-align:top; margin:4px; height:60px; width:60px">
-<img src="./logos/data-quality.png" alt="data-quality" style="vertical-align:top; margin:4px; height:60px; width:60px">
-<img src="./logos/hadoop.png" alt="hadoop" style="vertical-align:top; margin:4px; height:60px; width:60px">
-<img src="./logos/oracle-logo.png" alt="oracle" style="vertical-align:top; margin:4px; height:60px; width:60px">
-<img src="./logos/sql.png" alt="sql" style="vertical-align:top; margin:4px; height:60px; width:60px">
-<img src="./logos/oracle-plsql.png" alt="plsql" style="vertical-align:top; margin:4px; height:60px; width:60px">
-<img src="./logos/postgresql.png" alt="psql" style="vertical-align:top; margin:4px; height:60px; width:60px">
-<img src="./logos/mysql.png" alt="mysql" style="vertical-align:top; margin:4px; height:60px; width:60px">
-<img src="./logos/html5.png" alt="html5" style="vertical-align:top; margin:4px; height:60px; width:60px">
-<img src="./logos/css3.png" alt="css3" style="vertical-align:top; margin:4px; height:60px; width:60px">
-<img src="./logos/js.png" alt="js" style="vertical-align:top; margin:4px; height:60px; width:60px">
-<img src="./logos/php.png" alt="php" style="vertical-align:top; margin:4px; height:60px; width:60px">
-<img src="./logos/vscode.png" alt="vscode" style="vertical-align:top; margin:4px; height:60px; width:60px">
-<img src="./logos/anaconda.png" alt="anaconda" style="vertical-align:top; margin:4px; height:60px; width:60px">
+<img src="./logos/linux.png" alt="linux" style="vertical-align:top; margin:4px; height:40px; width:40px">
+<img src="./logos/python.png" alt="python" style="vertical-align:top; margin:4px; height:40px; width:40px">
+<img src="./logos/aws.png" alt="aws" style="vertical-align:top; margin:4px; height:40px; width:40px">
+<img src="./logos/dbt.png" alt="dbt" style="vertical-align:top; margin:4px; height:40px; width:150px">
+<img src="./logos/docker.png" alt="docker" style="vertical-align:top; margin:4px; height:40px; width:40px">
+<img src="./logos/airflow.png" alt="airflow" style="vertical-align:top; margin:4px; height:40px; width:40px">
+<img src="./logos/gitlab.png" alt="gitlab" style="vertical-align:top; margin:4px; height:40px; width:40px">
+<img src="./logos/k8s.png" alt="k8s" style="vertical-align:top; margin:4px; height:40px; width:40px">
+<img src="./logos/data-quality.png" alt="data-quality" style="vertical-align:top; margin:4px; height:40px; width:40px">
+<img src="./logos/hadoop.png" alt="hadoop" style="vertical-align:top; margin:4px; height:40px; width:40px">
+<img src="./logos/oracle-logo.png" alt="oracle" style="vertical-align:top; margin:4px; height:40px; width:40px">
+<img src="./logos/sql.png" alt="sql" style="vertical-align:top; margin:4px; height:40px; width:40px">
+<img src="./logos/oracle-plsql.png" alt="plsql" style="vertical-align:top; margin:4px; height:40px; width:40px">
+<img src="./logos/postgresql.png" alt="psql" style="vertical-align:top; margin:4px; height:40px; width:40px">
+<img src="./logos/mysql.png" alt="mysql" style="vertical-align:top; margin:4px; height:40px; width:40px">
+<img src="./logos/html5.png" alt="html5" style="vertical-align:top; margin:4px; height:40px; width:40px">
+<img src="./logos/css3.png" alt="css3" style="vertical-align:top; margin:4px; height:40px; width:40px">
+<img src="./logos/js.png" alt="js" style="vertical-align:top; margin:4px; height:40px; width:40px">
+<img src="./logos/php.png" alt="php" style="vertical-align:top; margin:4px; height:40px; width:40px">
+<img src="./logos/vscode.png" alt="vscode" style="vertical-align:top; margin:4px; height:40px; width:40px">
+<img src="./logos/anaconda.png" alt="anaconda" style="vertical-align:top; margin:4px; height:40px; width:40px">
 <br>
 <div/>
 
