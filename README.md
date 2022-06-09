@@ -34,7 +34,7 @@ I'm Jess, a Data Engineer, in love with tech and data.
 <img src="./logos/linux.png" alt="linux" style="vertical-align:top; margin:4px; height:40px; width:40px">
 <img src="./logos/python.png" alt="python" style="vertical-align:top; margin:4px; height:40px; width:40px">
 <img src="./logos/aws.png" alt="aws" style="vertical-align:top; margin:4px; height:40px; width:40px">
-<img src="./logos/dbt.png" alt="dbt" style="vertical-align:top; margin:4px; height:40px; width:150px">
+<img src="./logos/dbt.png" alt="dbt" style="vertical-align:top; margin:4px; height:40px; width:100px">
 <img src="./logos/docker.png" alt="docker" style="vertical-align:top; margin:4px; height:40px; width:40px">
 <img src="./logos/airflow.png" alt="airflow" style="vertical-align:top; margin:4px; height:40px; width:40px">
 <img src="./logos/gitlab.png" alt="gitlab" style="vertical-align:top; margin:4px; height:40px; width:40px">
