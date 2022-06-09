@@ -42,7 +42,7 @@ I'm Jess, a Data Engineer, in love with tech and data.
 <img src="./logos/data-quality.png" alt="data-quality" style="vertical-align:top; margin:4px; height:40px; width:40px">
 <img src="./logos/hadoop.png" alt="hadoop" style="vertical-align:top; margin:4px; height:40px; width:40px">
 
-### SQL
+### Database
 <img src="./logos/oracle-logo.png" alt="oracle" style="vertical-align:top; margin:4px; height:60px; width:60px">
 <img src="./logos/sql.png" alt="sql" style="vertical-align:top; margin:4px; height:40px; width:40px">
 <img src="./logos/oracle-plsql.png" alt="plsql" style="vertical-align:top; margin:4px; height:60px; width:60px">
