@@ -52,7 +52,7 @@ I'm Jess, a Data Engineer, in love with tech and data.
 <img src="./logos/oracle-plsql.png" alt="plsql" style="vertical-align:top; margin:4px; height:60px; width:60px">
 <img src="./logos/postgresql.png" alt="psql" style="vertical-align:top; margin:4px; height:40px; width:40px">
 <img src="./logos/mysql.png" alt="mysql" style="vertical-align:top; margin:4px; height:40px; width:40px">
-<img src="./logos/mongo.png" alt="mongoDB" style="vertical-align:top; margin:4px; height:40px; width:40px">
+<img src="./logos/mongo.png" alt="mongoDB" style="vertical-align:top; margin:4px; height:60px; width:60px">
 
 ### Web Development 
 <img src="./logos/html5.png" alt="html5" style="vertical-align:top; margin:4px; height:40px; width:40px">
