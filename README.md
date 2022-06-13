@@ -2,24 +2,20 @@
 
 ### HEY Everyone 👋 Welcome to my profile!
 
-<a href="https://www.github.com/jess197" target="_blank" rel="noreferrer"><img src="./logos/github.png" alt="github" style="vertical-align:top; margin:4px; height:40px; width:40px"></a>
-<a href="https://www.linkedin.com/in/jessicaccostaesilva/" target="_blank" rel="noreferrer"><img src="./logos/linkedin.png" alt="linkedin" style="vertical-align:top; margin:4px; height:40px; width:40px"></a>
-<a href="https://discord.com/users/263472119562633216" target="_blank" rel="noreferrer"><img src="./logos/discord.png" alt="discord" style="vertical-align:top; margin:4px; height:40px; width:40px"></a>
-
 I'm Jess, a Data Engineer, in love with tech and data.
 
 - :office_worker: I’m currently working as a Data Engineer at Sympla
 - :computer: Database Knowledges: - Oracle PLSQL, MySQL, T-SQL, PostgreSQL, Data Modelling
-  - Triggers, Views, Materialized Views, Functions, Packages, Procedures
+  - Triggers, Views, Materialized Views, Functions, Packages, Procedures, CTE, Window Functions
 - :computer: Data Engineering: Python, ETL/ELT, Airflow, DBT, Hadoop, Spark, Big Data and Data Governance
 - :computer: Web Knowledges: HTML, CSS, Java Script and PHP 
 - :computer: Cloud Knowledges: AWS (Kinesis, Glue, Athena, IAM) and OCI
 - :computer: Agile Knowledges: Scrum and Kanban
 - :computer: DevOps Knowledges: Docker
 - :books: Bachelors Degree - Systems Information at PUCPR :heart: 
-- 💬 Ask me about Investments, Music, Series, Technology, Books and traveling :earth_americas: :airplane:
+- 💬 Talk to me about Investments, Music, Series, Technology, Data, Books and Traveling :earth_americas: :airplane:
 - 🌱 I’m currently improving knowledges on Python, MultiCloud (AWS and OCI), Docker, Data Engineering
-  -  Data Science and Data Analysis as well but in a minor priority than DE.
+  -  Data Science and Data Analysis as well but in a minor priority than Data Engineering.
 - 🌱 I’m also studying to Oracle Certificate Developer Associate and Architect Associate, Airflow Astronomer Certificate and AWS Path Certificates. 
 - 🌱 OCI Foundations Certified
 
@@ -31,11 +27,15 @@ I'm Jess, a Data Engineer, in love with tech and data.
 
 ---
 
-## Techs
+## Socials
+<a href="https://www.github.com/jess197" target="_blank" rel="noopener noreferrer"><img src="./logos/github.png" alt="github" style="vertical-align:top; margin:4px; height:40px; width:40px"></a>
+<a href="https://www.linkedin.com/in/jessicaccostaesilva/" target="_blank" rel="noopener noreferrer"><img src="./logos/linkedin.png" alt="linkedin" style="vertical-align:top; margin:4px; height:40px; width:40px"></a>
+<a href="https://discord.com/users/263472119562633216" target="_blank" rel="noopener noreferrer"><img src="./logos/discord.png" alt="discord" style="vertical-align:top; margin:4px; height:40px; width:40px"></a>
+
+## Skills
 
 <div>
-<br>
-
+  
 ### Data Engineering Tools
 <img src="./logos/python.png" alt="python" style="vertical-align:top; margin:4px; height:40px; width:40px">
 <img src="./logos/aws.png" alt="aws" style="vertical-align:top; margin:4px; height:40px; width:40px">
