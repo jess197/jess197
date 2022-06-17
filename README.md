@@ -11,7 +11,7 @@ I'm Jess, a Data Engineer, in love with tech and data.
 - :computer: Web Knowledges: HTML, CSS, Java Script and PHP 
 - :computer: Cloud Knowledges: AWS (Kinesis, Glue, Athena, IAM) and OCI
 - :computer: Agile Knowledges: Scrum and Kanban
-- :computer: DevOps Knowledges: Docker
+- :computer: DevOps Knowledges: Docker, Kubernetes(kubectl,kind,helm)
 - :books: Bachelors Degree - Systems Information at PUCPR :heart: 
 - 💬 Talk to me about Investments, Music, Series, Technology, Data, Books and Traveling :earth_americas: :airplane:
 - 🌱 I’m currently improving knowledges on Python, MultiCloud (AWS and OCI), Docker, Data Engineering
