@@ -5,11 +5,11 @@
 I'm Jess, a Data Engineer, in love with tech and data.
 
 - :office_worker: I’m currently working as a Data Engineer at Sympla
-- :computer: Database Knowledges: - Oracle PLSQL, MySQL, T-SQL, PostgreSQL, Data Modelling
+- :computer: Database Knowledges: - Oracle PLSQL, MySQL, T-SQL, PostgreSQL, Data Modelling, MongoDB
   - Triggers, Views, Materialized Views, Functions, Packages, Procedures, CTE, Window Functions
 - :computer: Data Engineering: Python, ETL/ELT, Airflow, DBT, Hadoop, Spark, Big Data and Data Governance
 - :computer: Web Knowledges: HTML, CSS, Java Script and PHP 
-- :computer: Cloud Knowledges: AWS (Kinesis, Glue, Athena, IAM) and OCI
+- :computer: Cloud Knowledges: AWS (Kinesis, Firehose, Glue, Athena, IAM, EKS, Redshift) and OCI 
 - :computer: Agile Knowledges: Scrum and Kanban
 - :computer: DevOps Knowledges: Docker, Kubernetes(kubectl,kind,helm)
 - :books: Bachelors Degree - Systems Information at PUCPR :heart: 
