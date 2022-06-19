@@ -25,6 +25,8 @@ I'm Jess, a Data Engineer, in love with tech and data.
   
 <a href="http://www.github.com/jess197"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jess197&stroke=ffffff&background=171717&ring=green&fire=orange&currStreakNum=ffffff&currStreakLabel=green&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+![Snake animation](https://github.com/abnermatheus/abnermatheus/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## Socials
