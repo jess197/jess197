@@ -16,7 +16,6 @@ I'm Jess, a Data Engineer, in love with tech and data.
 - :books: Bachelors Degree - Systems Information at PUCPR :heart: 
 - 💬 Talk to me about Investments, Music, Series, Technology, Data, Books and Traveling :earth_americas: :airplane:
 - 🌱 I’m currently improving knowledges on Python, MultiCloud (AWS and OCI), Docker, Kubernetes and Data Engineering
-  -  Data Science and Data Analysis as well but in a minor priority than Data Engineering.
 - 🌱 I’m also studying to Oracle Certificate Developer Associate and Architect Associate, Airflow Astronomer Certificate and AWS Path Certificates. 
 - 🌱 OCI Foundations Certified
 
