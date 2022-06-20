@@ -5,8 +5,9 @@
 I'm Jess, a Data Engineer, in love with tech and data.
 
 - :office_worker: I’m currently working as a Data Engineer at Sympla
-- :computer: Database Knowledges: - Oracle PLSQL, MySQL, T-SQL, PostgreSQL, Data Modelling, MongoDB
+- :computer: Database Knowledges: - Oracle PLSQL, MySQL, T-SQL, PostgreSQL, Data Modelling and data structures 
   - Triggers, Views, Materialized Views, Functions, Packages, Procedures, CTE, Window Functions
+  - NoSQL: MongoDB
 - :computer: Data Engineering: Python, ETL/ELT, Airflow, DBT, Hadoop, Spark, Big Data and Data Governance
 - :computer: Web Knowledges: HTML, CSS, Java Script and PHP 
 - :computer: Cloud Knowledges: AWS (Kinesis, Firehose, Glue, Athena, IAM, EKS, Redshift) and OCI 
@@ -14,7 +15,7 @@ I'm Jess, a Data Engineer, in love with tech and data.
 - :computer: DevOps Knowledges: Docker, Kubernetes(kubectl,kind,helm)
 - :books: Bachelors Degree - Systems Information at PUCPR :heart: 
 - 💬 Talk to me about Investments, Music, Series, Technology, Data, Books and Traveling :earth_americas: :airplane:
-- 🌱 I’m currently improving knowledges on Python, MultiCloud (AWS and OCI), Docker, Data Engineering
+- 🌱 I’m currently improving knowledges on Python, MultiCloud (AWS and OCI), Docker, Kubernetes and Data Engineering
   -  Data Science and Data Analysis as well but in a minor priority than Data Engineering.
 - 🌱 I’m also studying to Oracle Certificate Developer Associate and Architect Associate, Airflow Astronomer Certificate and AWS Path Certificates. 
 - 🌱 OCI Foundations Certified
