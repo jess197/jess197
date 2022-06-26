@@ -18,6 +18,7 @@ I'm Jess, a Data Engineer, in love with tech and data.
 - 🌱 I’m currently improving knowledges on Python, MultiCloud (AWS and OCI), Docker, Kubernetes and Data Engineering
 - 🌱 I’m also studying to Oracle Certificate Developer Associate and Architect Associate, Airflow Astronomer Certificate and AWS Path Certificates. 
 - 🌱 OCI Foundations Certified
+- Studying to AWS Cloud Practicioner Certification
 
 ---
 
