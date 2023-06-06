@@ -4,7 +4,7 @@
 
 I'm Jess, a Data Engineer, in love with tech and data.
 
-- :office_worker: I’m currently working as a Data Engineer at Sympla
+- :office_worker: I’m currently working as a Data Engineer at Semantix
 - :computer: Database Knowledges: - Oracle PLSQL, MySQL, T-SQL, PostgreSQL, Data Modelling and data structures 
   - Triggers, Views, Materialized Views, Functions, Packages, Procedures, CTE, Window Functions
   - NoSQL: MongoDB, Redis
@@ -16,9 +16,11 @@ I'm Jess, a Data Engineer, in love with tech and data.
 - :books: Bachelors Degree - Systems Information at PUCPR :heart: 
 - 💬 Talk to me about Investments, Music, Series, Technology, Data, Books and Traveling :earth_americas: :airplane:
 - 🌱 I’m currently improving knowledges on Python, MultiCloud (AWS and OCI), Docker, Kubernetes and Data Engineering
-- 🌱 I’m also studying to Oracle Certificate Developer Associate and Architect Associate, Airflow Astronomer Certificate and AWS Path Certificates. 
-- 🌱 OCI Foundations Certified
-- Studying to AWS Cloud Practicioner Certification
+- 🌱 I’m also studying to Azure Path Certificates, AWS Path Certificates and Kubernetes Certification. 
+- 🥇 Airflow Astronomer Certified
+- 🥇 Azure AZ900 Certified
+- 🥇 OCI Foundations Certified
+- Studying to Azure DP900 Certification - Data Fundamentals
 
 ---
 
