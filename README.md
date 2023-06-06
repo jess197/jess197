@@ -10,7 +10,7 @@ I'm Jess, a Data Engineer, in love with tech and data.
   - NoSQL: MongoDB, Redis
 - :computer: Data Engineering: Python, ETL/ELT, Airflow, DBT, Hadoop, Spark, Big Data and Data Governance
 - :computer: Web Knowledges: HTML, CSS, Java Script and PHP 
-- :computer: Cloud Knowledges: AWS (Kinesis Firehose, Glue, Athena, IAM, EKS, EC2, Redshift, S3) and OCI 
+- :computer: Cloud Knowledges: AWS (Kinesis Firehose, Glue, Athena, IAM, EKS, EC2, Redshift, S3), Azure and OCI 
 - :computer: Agile Knowledges: Scrum and Kanban
 - :computer: DevOps Knowledges: Docker, Kubernetes(kubectl,kind,helm)
 - :books: Bachelors Degree - Systems Information at PUCPR :heart: 
