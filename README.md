@@ -33,8 +33,6 @@ I'm Jess, a Data Engineer, in love with tech and data.
   
 
 
-![Snake animation](https://github.com/abnermatheus/abnermatheus/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## Socials
