@@ -4,7 +4,7 @@
 
 I'm Jess, a Data Engineer, in love with tech and data.
 
-- :office_worker: I’m currently working as a Data Engineer at Semantix
+- :office_worker: I’m currently working as a Data Engineer at Nestlé
 - :computer: Database Knowledges: - Oracle PLSQL, MySQL, T-SQL, PostgreSQL, Data Modelling and Data Structures 
   - Triggers, Views, Materialized Views, Functions, Packages, Procedures, CTE, Window Functions
   - NoSQL: MongoDB, Redis
