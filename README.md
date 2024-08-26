@@ -18,7 +18,8 @@ I'm Jess, a Data Engineer, in love with tech and data.
 - :books: Bachelors Degree - Systems Information at PUCPR :heart: 
 - 💬 Talk to me about Investments, Music, Series, Technology, Data, Books and Traveling :earth_americas: :airplane:
 - 🌱 I’m currently improving knowledges Data Engineering, developing new projects and reading Fundamentals of Data Engineering
-- 🌱 I’m also studying to Azure Path Certificates, AWS Path Certificates and Kubernetes Certification. 
+- 🌱 I’m also studying to Azure Path Certificates, AWS Path Certificates and Kubernetes Certification.
+- 🥇 AWS AWS Certified Cloud Practitioner Certified
 - 🥇 Airflow Astronomer Certified
 - 🥇 Azure AZ900 Certified
 - 🥇 Azure DP900 Certified
