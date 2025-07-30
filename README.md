@@ -4,7 +4,7 @@
 
 I'm Jess, a Data Engineer, in love with tech and data.
 
-- :office_worker: I’m currently working as a Data Engineer at Nestlé
+- :office_worker: I’m currently working as a Senior Data Engineer at Nestlé
 - :computer: Database Knowledges: - Oracle PLSQL, MySQL, T-SQL, PostgreSQL, Data Modelling and Data Structures 
   - Triggers, Views, Materialized Views, Functions, Packages, Procedures, CTE, Window Functions
   - NoSQL: MongoDB, Redis
@@ -18,13 +18,13 @@ I'm Jess, a Data Engineer, in love with tech and data.
 - :books: Bachelors Degree - Systems Information at PUCPR :heart: 
 - 💬 Talk to me about Investments, Music, Series, Technology, Data, Books and Traveling :earth_americas: :airplane:
 - 🌱 I’m currently improving knowledges Data Engineering, developing new projects and reading Fundamentals of Data Engineering
-- 🌱 I’m also studying to Azure Path Certificates, AWS Path Certificates and Kubernetes Certification.
-- 🥇 AWS AWS Certified Cloud Practitioner Certified
+- 🌱 I’m also studying to Azure Path Certification, Databricks Path Certification and AWS Path Certification 
+- 🥇 Azure Data Engineer Associate Certified DP203
+- 🥇 AWS Certified Cloud Practitioner Certified
 - 🥇 Airflow Astronomer Certified
-- 🥇 Azure AZ900 Certified
-- 🥇 Azure DP900 Certified
+- 🥇 Azure Fundamentals Certified AZ900 
+- 🥇 Azure Data Fundamentals Certified DP900
 - 🥇 OCI Foundations Certified
-- Studying to Azure DP203 Certification - Data Engineer Associate
 
 ---
 
